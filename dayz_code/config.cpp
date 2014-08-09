@@ -61,3 +61,4 @@ class CfgAddons {
 #include "Configs\CfgFaces.hpp"
 #include "Configs\CfgGlasses.hpp"
 #include "Configs\CfgArma.hpp"
+//test
